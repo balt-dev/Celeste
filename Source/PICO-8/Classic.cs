@@ -15,7 +15,7 @@ namespace Celeste.Pico8
         public Emulator E;
 
         // ~ celeste ~
-        // matt thorson + noel berry
+        // maddy thorson + noel berry
 
         #region "global" variables
 
